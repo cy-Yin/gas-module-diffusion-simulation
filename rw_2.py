@@ -47,7 +47,7 @@ x_values = []
 y_values = []
 z_values = []
 
-# 设置 1000 个分子，每个分子进行随机漫步50000次
+# 设置 5000 个分子，每个分子进行随机漫步50000次
 for i in range(5000):
 
     rw = RandomWalk(50_000)
